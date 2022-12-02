@@ -1,6 +1,6 @@
 # GitHubQuickStart
 
-<!-- COMMENT -->
-HHHHHHHHHHHHHHHHHH
+<!-- HHHHHHHHHHHHHHHHHH -->
+
 
 Hi, GitHub!!!
